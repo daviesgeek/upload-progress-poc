@@ -72,7 +72,9 @@ The backend/uploads folder should now include the file you uploaded and the serv
 }
 ```
 
+All the fun stuff for the frontend happens [here](frontend/app/routes/_index.tsx) and all the fun stuff for the backend happens [here](backend/src/index.ts).
+
 ## Findings
 
-Not sure about the tooling at the moment, it's obviously overly complex for the frontend, but there's a ton of features that I'm not using and/or are not familiar with at the moment.
+Not sure about the tooling at the moment, it's obviously overly complex for the frontend, but there's a ton of features that I'm not using and/or are not familiar with at the moment.  
 Overall though, this was a good test to bridge the gap between what I know is possible and how to actually implement this feature.
